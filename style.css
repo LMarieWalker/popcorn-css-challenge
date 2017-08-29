@@ -12,11 +12,11 @@ body {
 }
 
 header{
-    background: #35424a;
+    background: #D4A76A;
     color: #ffffff;
-    padding-top: 30px;
+    padding-top: 10px;
     min-height: 70px;
-    border-bottom: #e8491d 3px solid;
+    border-bottom: 3px solid black;
 
 }
 header a{
@@ -29,8 +29,8 @@ header a{
 header li{
     float: left;
     display: inline;
-    padding: 30px 50px 30px 50px;
-    background-color: brown;
+    padding: 20px 30px 20px 30px;
+    background-color: #805215;
     margin: 0 30px 30px 30px;
 }
 header #logo{
@@ -51,7 +51,7 @@ header .highlight, header .current a{
 header a:hover{
     color: #e8491d;
     display: block;
-    width: 60px;
+    /*width: 60px;*/
 }
 
 .button2 {
@@ -61,19 +61,3 @@ header a:hover{
   margin: 10px;
   border: 3px solid black;
 }
-
-
-
-
-/*#menu {
-  float:right;
-}
-
-#menu a{
-  text-decoration: none;
-}*/
-
-/*ul li {
-  list-style-type: none;
-  padding: 0 20px 0 20px;
-}*/
